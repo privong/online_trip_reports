@@ -16,5 +16,5 @@ These are here to guide my development.*
 ## Requirements
 
 * [`R`](https://www.r-project.org/) (tested with version 3.5.3).
-* [`leafelet`](https://rstudio.github.io/leaflet/) (tested with version 2.0.2)
+* [`leaflet`](https://rstudio.github.io/leaflet/) (tested with version 2.0.2)
 
