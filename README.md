@@ -8,7 +8,7 @@ The maps are generated with [`R`](https://www.r-project.org/) and the [`leaflet`
 *None of these steps are currently implemented.
 These are here to guide my development.*
 
-1. Edit configuration file to point to the location of GPX files and GPS-tagged image files.
+1. Copy example configuration file (`config.R.example`) to `config.R` and edit it to point to the location of GPX files and GPS-tagged image files.
 2. Run `clean_gpx.R` to prepare GPX files for mapping in leaflet.
 3. Run `gen_map.R` to generate a web page for the trip, using all of the GPX files and GPS-tagged images in the specified directory.
 

@@ -1,0 +1,4 @@
+# Configuration file
+
+gpxdir <- "/path/to/gpx/files/"
+imgdir <- "/path/to/images/"
